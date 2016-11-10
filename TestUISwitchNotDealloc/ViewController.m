@@ -20,6 +20,7 @@
     [super viewDidLoad];
     
     // 查看是否dealloc
+    // 在iOS10.1下无法释放
     [BOSwitch new];
 }
 
