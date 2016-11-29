@@ -26,5 +26,3 @@ see [[iOS][OC] 内存泄漏检查的意外发现：在iOS10下UISwitch自身不�
 
 # demo
 [demo 地址](https://github.com/beforeold/TestUISwitchNotDealloc)
-#### 邀请你加入我的微信专题讨论群
-![](http://upload-images.jianshu.io/upload_images/73339-a8d2c68c658440be.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
